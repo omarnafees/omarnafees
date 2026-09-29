@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**omarnafees/omarnafees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in **Embedded Systems, Hardware, and Software**.
 
-Here are some ideas to get you started:
+### Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Arduino & Microcontrollers
+* C/C++
+* Embedded Systems
+* Electronics & Digital Hardware
+
+### What I'm Building
+
+Hands-on projects to strengthen my programming, electronics, and embedded systems skills.
+
+### Connect
+
+* LinkedIn: www.linkedin.com/in/omarnafees
+* Email: o.nafees7@gmail.com
