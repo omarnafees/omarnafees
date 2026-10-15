@@ -22,7 +22,7 @@ Explore my repositories to see what I'm building.
 
 ### Connect
 - **Email:** o.nafees7@gmail.com
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/omarnafees)
+- **LinkedIn:** www.linkedin.com/in/omarnafees
 
 ---
 
